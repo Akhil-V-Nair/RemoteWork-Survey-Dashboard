@@ -9,6 +9,7 @@ To be eligible, survey respondents had to be employed NSW residents with remote 
 The responses are stored in 2 csv tables, one for each survey.
 
 Each record represents a single respondent, and contains answers to questions on:
+
     1. Their employers’ policies, practices, and attitudes for remote work
     2. Their own attitude towards working remotely
     3. The amount of time they spent working remotely, and how they spent it
